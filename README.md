@@ -10,7 +10,7 @@ This project implements a single-neuron Hodgkin–Huxley model to study action p
 - Visualization of membrane potential, ionic currents, and gating dynamics  
 
 ## Experiments & Analysis
-Initial simulations probe neuronal firing behavior under different current injection regimes. The model is used as a controlled computational setting to examine how membrane-level mechanisms shape spike generation and excitability.
+Initial simulations probe neuronal firing behavior under different current injection regimes, with preliminary parameter sweeps of sodium conductance. The model is used as a controlled computational setting to examine how membrane-level mechanisms shape spike generation and excitability.
 
 ## Future Directions
 Planned extensions include:
